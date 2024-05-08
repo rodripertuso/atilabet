@@ -54,7 +54,7 @@
 .slide-imgs .iphone-img {
 	position: relative;
 	z-index: 1;
-	width: 330px;
+	width: 290px;
 	-webkit-transform: perspective(1400px) rotateY(-20deg) rotateX(10deg) rotateZ(6deg) scale(.8) translateX(50%) translateY(6%);
 	transform: perspective(1400px) rotateY(-20deg) rotateX(10deg) rotateZ(6deg) scale(.8) translateX(50%) translateY(6%);
 	transition: transform .45s cubic-bezier(.2, .7, .3, 1)
@@ -67,7 +67,7 @@
 	position: absolute;
 	bottom: 10px;
 	left: -90px;
-	width: 360px;
+	width: 330px;
 	transition: opacity .65s cubic-bezier(.2, .7, .3, 1);
 	z-index: 1
 }
